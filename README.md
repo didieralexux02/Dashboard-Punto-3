@@ -2,7 +2,9 @@
 
 El Link para el dashboard es el siguiente. https://dashboard-punto-3-kxag7ppcc2bgzxzamtcg7e.streamlit.app/
 
-Solo es necesario cargar el archivo Withdrawals.xlsx que se envio en la prueba y se carga autimaticamente el dashboard.
+Solo es necesario cargar el archivo en la barra izquierda "Withdrawals.xlsx" que se envio en la prueba y se carga autimaticamente el dashboard.
+
+
 
 
 
